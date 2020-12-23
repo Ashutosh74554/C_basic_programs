@@ -2,8 +2,8 @@
 #include<stdio.h>
 void main()
 {
-	int a,b;
+	float a,b;
 	printf("Enter two numbers: ");
-	scanf("%d %d", &a, &b);
-	printf("Result of division= %d", a/b);
+	scanf("%f %f", &a, &b);
+	printf("Result of division= %f", a/b);
 }

@@ -12,7 +12,7 @@ void main()
 	{
 		printf("You passed the exam. Congrats");
 	}
-	else if(marks>100)
+	else if(marks>100 || marks<0)
 	{
 		printf("Wrong input.");
 	}
