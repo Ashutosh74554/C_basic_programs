@@ -18,6 +18,8 @@ void main()
 	   	}
 		for(j=1;j<=n;j++)
 		{
+			if(i==0)
+			    x--;
 			while(x>='B')
 		    	printf("%c", --x);
 		}
