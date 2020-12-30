@@ -1,4 +1,4 @@
-//pattern
+//alphabet pattern
 #include<stdio.h>
 void main()
 {
